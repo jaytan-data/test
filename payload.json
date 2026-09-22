@@ -1,0 +1,20 @@
+{
+  "lookup_key": {
+    "email": "jay.tan@justeattakeaway.com"
+  },
+  "customer_records": [
+    {
+      "email": "jay.tan@justeattakeaway.com",
+      "appended_data": {
+        "user_profile": {
+          "skip_loyalty": {
+            "user_id": "5f94bf25a74c8ae39fdfa3e90867dde1",
+            "program_active": "2026-09-22",
+            "registered_at": "2026-09-22",
+            "user_id_tier": "tier_-1"
+          }
+        }
+      }
+    }
+  ]
+}
