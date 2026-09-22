@@ -1,0 +1,36 @@
+{
+  "slide": 7,
+  "title": "Now / Next / Later",
+  "columns": [
+    {
+      "label": "Now (Q1–Q2)",
+      "items": [
+        "Data platform MVP",
+        "Courier scorecard v1",
+        "Telemetry migration ph.1",
+        "Demand forecast model v2",
+        "AI anomaly detection pilot"
+      ]
+    },
+    {
+      "label": "Next (Q3–Q4)",
+      "items": [
+        "Self-serve analytics layer",
+        "LLM dispatch pilot live",
+        "Supply elasticity model",
+        "SLO/SLA dashboards",
+        "Churn prediction model"
+      ]
+    },
+    {
+      "label": "Later (FY28+)",
+      "items": [
+        "Data catalogue & lineage",
+        "Autonomous routing agent",
+        "Long-range capacity planning",
+        "AI experimentation platform",
+        "Cross-market FinOps tooling"
+      ]
+    }
+  ]
+}
