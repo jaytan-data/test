@@ -16,7 +16,7 @@
           "B2B_SKIP": {
             "user_id": "01a15ae4-16f2-19d9-0e3f-e4b82f036df5",
             "program_active": true,
-            "registered_at": "2026-11-01",
+            "registered_at": "2026-11-01 00:00:00",
             "user_id_tier": "Bronze"
           }
         }
@@ -29,7 +29,7 @@
           "B2B_SKIP": {
             "user_id": "01a15ae6-f84a-a8ce-7152-7f78f787a244",
             "program_active": true,
-            "registered_at": "2026-11-02",
+            "registered_at": "2026-11-02 00:00:00",
             "user_id_tier": "Silver"
           }
         }
@@ -42,7 +42,7 @@
           "B2B_SKIP": {
             "user_id": "01a15ae9-6439-4baa-9684-9047bc8dfdce",
             "program_active": true,
-            "registered_at": "2026-11-03",
+            "registered_at": "2026-11-03 00:00:00",
             "user_id_tier": "Gold"
           }
         }
@@ -55,7 +55,7 @@
           "B2B_SKIP": {
             "user_id": "01a15aeb-2e06-9365-339d-a44477709fbc",
             "program_active": true,
-            "registered_at": "2026-11-04",
+            "registered_at": "2026-11-04 00:00:00",
             "user_id_tier": "Silver"
           }
         }
@@ -68,7 +68,7 @@
           "B2B_SKIP": {
             "user_id": "01a15aed-41f4-bf04-73f9-5a40211cb30e",
             "program_active": true,
-            "registered_at": "2026-11-05",
+            "registered_at": "2026-11-05 00:00:00",
             "user_id_tier": "Bronze"
           }
         }
